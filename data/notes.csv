@@ -1,0 +1,233 @@
+0, 0, Header, 1, 21, 384
+1, 0, Start_track
+1, 0, Time_signature, 4, 2, 24, 8
+1, 0, Tempo, 545454
+1, 0, End_track
+2, 0, Start_track
+2, 0, Title_t, "Electric Piano"
+2, 0, Program_c, 0, 0
+2, 0, Note_on_c, 0, 95, 50 B7 The number 50 tells that the note is on
+2, 96, Note_on_c, 0, 94, 50 A#7 The number 50 tells that the note is on
+2, 96, Note_off_c, 0, 95, 0 A7
+2, 192, Note_off_c, 0, 94, 0 G#7
+2, 192, Note_on_c, 0, 93, 50 
+2, 288, Note_on_c, 0, 92, 50
+2, 288, Note_off_c, 0, 93, 0
+2, 384, Note_on_c, 0, 91, 50
+2, 384, Note_off_c, 0, 92, 0
+2, 480, Note_on_c, 0, 90, 50
+2, 480, Note_off_c, 0, 91, 0
+2, 576, Note_on_c, 0, 89, 50
+2, 576, Note_off_c, 0, 90, 0
+2, 672, Note_on_c, 0, 88, 50
+2, 672, Note_off_c, 0, 89, 0
+2, 768, Note_on_c, 0, 87, 50
+2, 768, Note_off_c, 0, 88, 0
+2, 864, Note_on_c, 0, 86, 50
+2, 864, Note_off_c, 0, 87, 0
+2, 960, Note_off_c, 0, 86, 0
+2, 960, Note_on_c, 0, 85, 50
+2, 1056, Note_on_c, 0, 84, 50
+2, 1056, Note_off_c, 0, 85, 0
+2, 1152, Note_on_c, 0, 83, 50
+2, 1152, Note_off_c, 0, 84, 0
+2, 1248, Note_on_c, 0, 82, 50
+2, 1248, Note_off_c, 0, 83, 0
+2, 1344, Note_on_c, 0, 81, 50
+2, 1344, Note_off_c, 0, 82, 0
+2, 1440, Note_on_c, 0, 80, 50
+2, 1440, Note_off_c, 0, 81, 0
+2, 1536, Note_on_c, 0, 79, 50
+2, 1536, Note_off_c, 0, 80, 0
+2, 1632, Note_on_c, 0, 78, 50
+2, 1632, Note_off_c, 0, 79, 0
+2, 1728, Note_on_c, 0, 77, 50
+2, 1728, Note_off_c, 0, 78, 0
+2, 1824, Note_off_c, 0, 77, 0
+2, 1824, Note_on_c, 0, 76, 50
+2, 1920, Note_off_c, 0, 76, 0
+2, 1920, Note_on_c, 0, 75, 50
+2, 2016, Note_on_c, 0, 74, 50
+2, 2016, Note_off_c, 0, 75, 0
+2, 2112, Note_on_c, 0, 73, 50
+2, 2112, Note_off_c, 0, 74, 0
+2, 2208, Note_on_c, 0, 72, 50
+2, 2208, Note_off_c, 0, 73, 0
+2, 2304, Note_on_c, 0, 71, 50
+2, 2304, Note_off_c, 0, 72, 0
+2, 2400, Note_on_c, 0, 70, 50
+2, 2400, Note_off_c, 0, 71, 0
+2, 2496, Note_on_c, 0, 69, 50
+2, 2496, Note_off_c, 0, 70, 0
+2, 2592, Note_on_c, 0, 68, 50
+2, 2592, Note_off_c, 0, 69, 0
+2, 2688, Note_off_c, 0, 68, 0
+2, 2688, Note_on_c, 0, 67, 50
+2, 2784, Note_off_c, 0, 67, 0
+2, 2784, Note_on_c, 0, 66, 50
+2, 2880, Note_on_c, 0, 65, 50
+2, 2880, Note_off_c, 0, 66, 0
+2, 2976, Note_on_c, 0, 64, 50
+2, 2976, Note_off_c, 0, 65, 0
+2, 3072, Note_on_c, 0, 63, 50
+2, 3072, Note_off_c, 0, 64, 0
+2, 3168, Note_on_c, 0, 62, 50
+2, 3168, Note_off_c, 0, 63, 0
+2, 3264, Note_on_c, 0, 61, 50
+2, 3264, Note_off_c, 0, 62, 0
+2, 3360, Note_on_c, 0, 60, 50
+2, 3360, Note_off_c, 0, 61, 0
+2, 3456, Note_on_c, 0, 59, 50
+2, 3456, Note_off_c, 0, 60, 0
+2, 3552, Note_on_c, 0, 58, 50
+2, 3552, Note_off_c, 0, 59, 0
+2, 3648, Note_off_c, 0, 58, 0
+2, 3648, Note_on_c, 0, 57, 50
+2, 3744, Note_on_c, 0, 56, 50
+2, 3744, Note_off_c, 0, 57, 0
+2, 3840, Note_on_c, 0, 55, 50
+2, 3840, Note_off_c, 0, 56, 0
+2, 3936, Note_on_c, 0, 54, 50
+2, 3936, Note_off_c, 0, 55, 0
+2, 4032, Note_on_c, 0, 53, 50
+2, 4032, Note_off_c, 0, 54, 0
+2, 4128, Note_on_c, 0, 52, 50
+2, 4128, Note_off_c, 0, 53, 0
+2, 4224, Note_on_c, 0, 51, 50
+2, 4224, Note_off_c, 0, 52, 0
+2, 4320, Note_on_c, 0, 50, 50
+2, 4320, Note_off_c, 0, 51, 0
+2, 4416, Note_off_c, 0, 50, 0
+2, 4416, Note_on_c, 0, 49, 50
+2, 4512, Note_off_c, 0, 49, 0
+2, 4512, Note_on_c, 0, 48, 50
+2, 4608, Note_on_c, 0, 47, 50
+2, 4608, Note_off_c, 0, 48, 0
+2, 4704, Note_on_c, 0, 46, 50
+2, 4704, Note_off_c, 0, 47, 0
+2, 4800, Note_on_c, 0, 45, 50
+2, 4800, Note_off_c, 0, 46, 0
+2, 4896, Note_on_c, 0, 44, 50
+2, 4896, Note_off_c, 0, 45, 0
+2, 4992, Note_on_c, 0, 43, 50
+2, 4992, Note_off_c, 0, 44, 0
+2, 5088, Note_on_c, 0, 42, 50
+2, 5088, Note_off_c, 0, 43, 0
+2, 5184, Note_on_c, 0, 41, 50
+2, 5184, Note_off_c, 0, 42, 0
+2, 5280, Note_off_c, 0, 41, 0
+2, 5280, Note_on_c, 0, 40, 50
+2, 5376, Note_off_c, 0, 40, 0
+2, 5376, Note_on_c, 0, 39, 50
+2, 5472, Note_on_c, 0, 38, 50
+2, 5472, Note_off_c, 0, 39, 0
+2, 5568, Note_on_c, 0, 37, 50
+2, 5568, Note_off_c, 0, 38, 0
+2, 5664, Note_on_c, 0, 36, 50
+2, 5664, Note_off_c, 0, 37, 0
+2, 5760, Note_on_c, 0, 35, 50
+2, 5760, Note_off_c, 0, 36, 0
+2, 5856, Note_on_c, 0, 34, 50
+2, 5856, Note_off_c, 0, 35, 0
+2, 5952, Note_on_c, 0, 33, 50
+2, 5952, Note_off_c, 0, 34, 0
+2, 6048, Note_on_c, 0, 32, 50
+2, 6048, Note_off_c, 0, 33, 0
+2, 6144, Note_off_c, 0, 32, 0
+2, 6144, Note_on_c, 0, 31, 50
+2, 6240, Note_off_c, 0, 31, 0
+2, 6240, Note_on_c, 0, 30, 50
+2, 6336, Note_on_c, 0, 29, 50
+2, 6336, Note_off_c, 0, 30, 0
+2, 6432, Note_on_c, 0, 28, 50
+2, 6432, Note_off_c, 0, 29, 0
+2, 6528, Note_on_c, 0, 27, 50
+2, 6528, Note_off_c, 0, 28, 0
+2, 6624, Note_on_c, 0, 26, 50
+2, 6624, Note_off_c, 0, 27, 0
+2, 6720, Note_on_c, 0, 25, 50
+2, 6720, Note_off_c, 0, 26, 0
+2, 6816, Note_on_c, 0, 24, 50
+2, 6816, Note_off_c, 0, 25, 0
+2, 6912, Note_off_c, 0, 24, 0
+2, 12288, Note_on_c, 0, 67, 50
+2, 12384, Note_off_c, 0, 67, 0
+2, 12384, End_track
+3, 0, Start_track
+3, 0, Title_t, "Acoustic Guitar"
+3, 0, Program_c, 1, 24
+3, 0, End_track
+4, 0, Start_track
+4, 0, Title_t, "Percussion"
+4, 0, Program_c, 9, 0
+4, 0, End_track
+5, 0, Start_track
+5, 0, Title_t, "Smooth Synth"
+5, 0, Program_c, 3, 80
+5, 0, End_track
+6, 0, Start_track
+6, 0, Title_t, "Electric Guitar"
+6, 0, Program_c, 4, 29
+6, 0, End_track
+7, 0, Start_track
+7, 0, Title_t, "Bass"
+7, 0, Program_c, 5, 32
+7, 0, End_track
+8, 0, Start_track
+8, 0, Title_t, "Synth Pluck"
+8, 0, Program_c, 6, 87
+8, 0, End_track
+9, 0, Start_track
+9, 0, Title_t, "Scifi"
+9, 0, Program_c, 7, 99
+9, 0, End_track
+10, 0, Start_track
+10, 0, Title_t, "Grand Piano"
+10, 0, Program_c, 8, 0
+10, 0, End_track
+11, 0, Start_track
+11, 0, Title_t, "French Horn"
+11, 0, Program_c, 2, 60
+11, 0, End_track
+12, 0, Start_track
+12, 0, Title_t, "Trombone"
+12, 0, Program_c, 10, 57
+12, 0, End_track
+13, 0, Start_track
+13, 0, Title_t, "Violin"
+13, 0, Program_c, 11, 40
+13, 0, End_track
+14, 0, Start_track
+14, 0, Title_t, "Cello"
+14, 0, Program_c, 12, 42
+14, 0, End_track
+15, 0, Start_track
+15, 0, Title_t, "8-Bit Sine"
+15, 0, Program_c, 13, 82
+15, 0, End_track
+16, 0, Start_track
+16, 0, Title_t, "8-Bit Square"
+16, 0, Program_c, 14, 80
+16, 0, End_track
+17, 0, Start_track
+17, 0, Title_t, "8-Bit Sawtooth"
+17, 0, Program_c, 15, 81
+17, 0, End_track
+18, 0, Start_track
+18, 0, Title_t, "8-Bit Triangle"
+18, 0, Channel_aftertouch_c, 0, 87
+18, 0, End_track
+19, 0, Start_track
+19, 0, Title_t, "Harpsichord"
+19, 0, Channel_aftertouch_c, 1, 6
+19, 0, End_track
+20, 0, Start_track
+20, 0, Title_t, "Concert Harp"
+20, 0, Channel_aftertouch_c, 2, 45
+20, 0, End_track
+21, 0, Start_track
+21, 0, Title_t, "Xylophone"
+21, 0, Channel_aftertouch_c, 3, 13
+21, 0, End_track
+0, 0, End_of_file
+
