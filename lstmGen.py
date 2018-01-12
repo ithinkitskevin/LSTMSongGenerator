@@ -135,7 +135,7 @@ print('-'*25,end='')
 print('Training',end='')
 print('-'*25)
 
-for iteration in range(1001):
+for iteration in range(501):
     print('iteration - ',iteration)
     model.fit(xTrainD, yTrainD, batch_size=128, epochs=1, verbose=1)
     start_index = random.randint(0, len(initText) - seqLen - 1)
@@ -145,7 +145,7 @@ for iteration in range(1001):
     gener += sentence
     print('Seed: "' + sentence + '"')
     
-    sys.stdout.write(generated)
+    sys.stdout.write(gener)
     
     for i in range(averLen):
         x_pred = np.zeros((1, seqLen, len(chars)))
@@ -159,7 +159,7 @@ for iteration in range(1001):
         print(nextChar,end="")    
     print()
     if iteration%100 == 0:
-        generatedSong.append(generated)
+        generatedSong.append(gener)
 
 finalS = generatedSong[len(generatedSong)-1]
 
